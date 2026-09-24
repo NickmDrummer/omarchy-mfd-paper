@@ -57,28 +57,31 @@ theme = mfd-paper
   
 mfd-paper:
 ```
-background = #001407
-foreground = #ADB7B2
-cursor-color = #c2c9c5
-selection-background = #1a2c20
-selection-foreground = #001407
+# Custom mfd-paper adaptation for Ghostty 
+# This is my custom mfd-paper theme. It preserves almost all of the original colors, with a few subtle adjustments and a striking orange accent. Combined with the BetterCRT shader, the result is absolutely stunning!
+palette = 0=#ff4e40
+palette = 1=#002611
+palette = 2=#002611
+palette = 3=#8A9A78
+palette = 4=#002611
+palette = 5=#002611
+palette = 6=#003c08
+palette = 7=#002611
+palette = 8=#ff4e40
+palette = 9=#001008
+palette = 10=#002611
+palette = 11=#8A9A78
+palette = 12=#002611
+palette = 13=#002611
+palette = 14=#003c08
+palette = 15=#001008
 
-palette = 0=#001407
-palette = 1=#f66d22
-palette = 2=#528d42
-palette = 3=#779d50
-palette = 4=#628e56
-palette = 5=#ff9246
-palette = 6=#4a924c
-palette = 7=#ADB7B2
-palette = 8=#646a65
-palette = 9=#ff8f2b
-palette = 10=#6fb54d
-palette = 11=#97c65c
-palette = 12=#81b66a
-palette = 13=#ffad45
-palette = 14=#66bb5b
-palette = 15=#c2c9c5
+background = #BBC5B7
+foreground = #002611
+cursor-color = #ff4e40
+selection-background = #ff4e40
+selection-foreground = #002611
+
 ```
 
 ### Neovim theme
