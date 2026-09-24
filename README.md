@@ -4,6 +4,8 @@ A dark green and orange theme for Omarchy, inspired by the visual style of MFD P
 
 The theme uses a deep green background, muted gray-green foreground colors, and orange accents for highlights and important UI elements.
 
+![Preview](https://github.com/NickmDrummer/omarchy-mfd-paper/blob/master/preview.png "Preview")
+
 ## Installation
 
 Install the theme directly with Omarchy:
